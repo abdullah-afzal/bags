@@ -2,6 +2,8 @@
 
 Bags is an open-source webstore demo/template project focused on providing a seamless online shopping experience for bags. This project allows users to browse, search, and purchase a wide variety of bags, including handbags, backpacks, totes, and more. With its user-friendly interface and intuitive features, Bags aims to simplify the process of buying bags online.
 
+### Live Preview: [Bags 🔗](https://abdullah-afzal.github.io/bags/)
+
 ## Features
 
 - **Product Details:** Each bag is showcased with detailed information, including high-quality images, descriptions, specifications, and customer reviews. This allows users to make informed decisions before adding items to their cart.
